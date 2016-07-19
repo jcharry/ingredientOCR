@@ -1,0 +1,101 @@
+{
+    "maltodextrin": {
+        "description": "A complex carbohydrate derived from starch (usually corn, pototo, rice, or wheat). Typically found as a white powder. It acts as a thickener when used as a food additive, often allowing for lower fat content.  It's metabolized as fast as regular table sugar, and can contribute to rapid increases in blood sugar if consumed in high quantities.",
+        "uses": ["Thickening agent", "Binding agent", "Prevents crystalization"],
+        "foundin": ["Canned fruits","Desserts", "Instant", "Puddings and gelatins", "Sauces", "Salad dressings", "Snacks", "Powdered drinks", "Some sugar substitutes"],
+        "health": "Maltodextrin is generally considered safe in low quantities, however it's prevelance means you may be getting more than you realize.",
+        "stats": {
+            "Glycemic Index": "85-105",
+            "Calories":"4cal/g" 
+        }
+    },
+    "trisodium phosphate": {
+        "description":"An inorganic compound produced by neutralizing phosphoric acid using sodium hydroxides. Often found in industrail cleaning agents, it's used in food for acidity regulation, as an emulsifier, and anti-microbial agent. The Clean Water Act attempted to limit use of Trisodium Phosphate in consumer soaps citing environmental concerns.",
+        "uses": ["Cleaning agent", "Lubricant", "Food additive", "Stain remover", "Degreaser", "Anti-microbial"],
+        "foundin": ["dry cereals","cheese sauce", "Meat production"],
+        "health": "While dangerous in high concentrations (like those found in industrial cleaners), the amount found in food is so low as to be generally considered safe by the FDA. It can, however, cause digestive irritation.",
+        "stats": {
+        }
+    }, 
+    "bht": {
+        "redirect": "butylated hydroxytoluene"
+    },
+    "butylated hydroxytoluene": {
+        "description":"",
+        "uses": [],
+        "foundin": [],
+        "health": "",
+        "stats": {
+        }
+    },
+    "bran": {
+        "description":"Bran, also known as miller's bran, is the hard outer layers of cereal grain. It consists of the combined aleurone and pericarp.  Along with germ, it is an integral part of whole grains, and is often produced as a byproduct of milling in the production of refined grains. When bran is removed from grains, the grains lose a portion of their nutritional value. Bran is present in and may be milled from any cereal grain, including rice, corn (maize), wheat, oats, barley and millet. Bran should not be confused with chaff, which is coarser scaly material surrounding the grain, but not forming part of the grain itself.  Bran is particularly rich in dietary fiber and essential fatty acids and contains significant quantities of starch, protein, vitamins, dietary minerals and phytic acid, which is an antinutrient that prevents nutrient absorption. The high oil content of bran makes it subject to rancidification, one of the reasons that it is often separated from the grain before storage or further processing. Bran can be heat-treated to increase its longevity. Bran is often used to enrich breads (notably muffins) and breakfast cereals, especially for the benefit of those wishing to increase their intake of dietary fiber. Bran may also be used for pickling (nukazuke) as in the tsukemono of Japan. In Romania and Moldova, the fermented wheat bran is usually used when preparing borș soup.",
+        "uses": [],
+        "foundin": [],
+        "health": "",
+        "stats": {
+        },
+        "link": "https://en.wikipedia.org/wiki/Bran"
+    },
+    "corn starch": {
+        "description":"Corn starch, cornstarch, cornflour or maize starch or maize is the starch derived from the corn (maize) grain. The starch is obtained from the endosperm of the corn kernel. Corn starch is a popular food ingredient used in thickening sauces or soups, and is used in making corn syrup and other sugars. Corn starch is used as a thickening agent in liquid-based foods (e.g., soup, sauces, gravies, custard), usually by mixing it with a lower-temperature liquid to form a paste or slurry. It is sometimes preferred over flour alone because it forms a translucent mixture, rather than an opaque one. As the starch is heated, the molecular chains unravel, allowing them to collide with other starch chains to form a mesh, thickening the liquid (Starch gelatinization).",
+        "uses": [],
+        "foundin": [],
+        "health": "",
+        "stats": {
+        },
+        "link": "https://en.wikipedia.org/wiki/Corn_starch"
+    },
+    "oat bran": {
+        "redirect": "bran"
+    },
+    "whole grain": {
+        "description":"A whole grain is a cereal grain that contains the germ, endosperm, and bran, in contrast to refined grains, which retain only the endosperm. \nWholegrain products can be identified by the ingredients list. 'Wheat flour' (as opposed to 'wholegrain wheat flour' or 'whole-wheat flour') as the first ingredient is not a clear indicator of the product's wholegrain content. If two ingredients are listed as grain products but only the second is listed as wholegrain, the entire product may contain between 1% and 49% wholegrain. Many breads are colored brown (often with molasses or caramel color) and made to look like wholegrain when they are not. In addition, some food manufacturers make foods with wholegrain ingredients, but, because wholegrain ingredients are not the dominant ingredient, they are not wholegrain products. Contrary to popular belief, wholegrains are not indicative of fiber. The amount of fiber varies from grain to grain, and some products may have things like bran, peas, or other foods added to boost the fiber content.",
+        "uses": [],
+        "foundin": [],
+        "health": "Consumption of whole grains has been consistently linked with a significant decrease in risk factors for cardiovascular disease. Regular whole-grain consumption lowers LDL and triglyceride levels, which contributes to an overall 26% reduction in coronary heart disease-risk factors. In addition, whole-grain consumption is inversely related to hypertension, diabetes, and obesity when compared to refined grains, all of which are negative indicators in total cardiovascular health. Keeping grains as close to their original form as possible slows or prevents the digestion of starch, and a slower digestion is responsible for preventing spikes in blood sugar (over time spikes in blood sugar may lead to insulin resistance)",
+        "stats": {
+        }
+    },
+    "whole oats": {
+        "description":"Whole oats are oats that still contain their endosperm, bran and germ. Whole oats are an excellent source of fiber, protein and vitamins. Studies have shown that whole oats have a specific kind of fiber referred to as beta-glucan, which has shown to be especially effective in lowering cholesterol. Whole grain oats contain seven vitamins, including vitamin E and a host of nutrients, including iron and calcium. Oats have twice the amount of protein than whole wheat or whole corn. Whole oat products include whole grain oat groats, steel cut oats and thick oats.",
+        "uses": [],
+        "foundin": [],
+        "health": "Consumption of whole grains has been consistently linked with a significant decrease in risk factors for cardiovascular disease. Regular whole-grain consumption lowers LDL and triglyceride levels, which contributes to an overall 26% reduction in coronary heart disease-risk factors. In addition, whole-grain consumption is inversely related to hypertension, diabetes, and obesity when compared to refined grains, all of which are negative indicators in total cardiovascular health. Keeping grains as close to their original form as possible slows or prevents the digestion of starch, and a slower digestion is responsible for preventing spikes in blood sugar (over time spikes in blood sugar may lead to insulin resistance)",
+        "stats": {
+        }
+    },
+    "whole grain oats": {
+        "redirect": "whole oats"
+    },
+    "whole wheat flour": {
+
+    },
+    "sugar": {
+        "description":"Sugar is the generalized name for sweet, short-chain, soluble carbohydrates, many of which are used in food. They are carbohydrates, composed of carbon, hydrogen, and oxygen. There are various types of sugar derived from different sources. Simple sugars are called monosaccharides and include glucose (also known as dextrose), fructose and galactose. The table or granulated sugar most customarily used as food is sucrose, a disaccharide. (In the body, sucrose hydrolyses into fructose and glucose.) Other disaccharides include maltose and lactose. Longer chains of sugars are called oligosaccharides. Chemically-different substances may also have a sweet taste, but are not classified as sugars. Some are used as lower-calorie food substitutes for sugar described as artificial sweeteners. \n The world produced about 168 million tonnes of sugar in 2011. The average person consumes about 24 kilograms (53 lb) of sugar each year (33.1 kg in industrialised countries), equivalent to over 260 food calories per person, per day.",
+        "uses": [],
+        "foundin": [],
+        "health": "Since the latter part of the twentieth century, it has been questioned whether a diet high in sugars, especially refined sugars, is good for human health. Sugar has been linked to obesity, and suspected of, or fully implicated as a cause in the occurrence of diabetes, cardiovascular disease, dementia, macular degeneration, and tooth decay. Numerous studies have been undertaken to try to clarify the position, but with varying results, mainly because of the difficulty of finding populations for use as controls that do not consume or are largely free of any sugar consumption.",
+        "stats": {
+        },
+        "link":"https://en.wikipedia.org/wiki/Sugar"
+    },
+    "sulfites": {
+        "redirect": "sulfite"
+    },
+    "sulphites": {
+        "redirect": "sulfite"
+    },
+    "sulphite": {
+        "redirect": "sulfite"
+    },
+    "sulfite": {
+        "description":"Sulphites are substances that are naturally found in some foods.  They are used as an additive to maintain food colour, shelf-life and prevent the growth of fungi or bacteria.  Sulphites are also used in food packaging like cellophane.",
+        "uses": [],
+        "foundin": ["Canned and frozen fruits and vegetables", "Fruit and vegetables juices", "Fruit fillings and syrups, jams, jellies and other preserves", "Dried fruits and vegetables, like apricots, coconut, raisins and sweet potato", "Cereal, cornmeal, cornstarch, crackers and muesli", "Dehydrated, mashed, peeled and pre-cut potatoes, including French fries", "Tomato pastes, pulps and purees", "Condiments like horseradish, ketchup, mustard, pickles and relishes", "Vinegar and wine vinegar", "Bottled lemon and lime juices and concentrates", "Alcoholic and non-alcoholic wine, beer and cider"],
+        "health": "In the U.S., labeling regulations do not require products to indicate the presence of sulfites in foods unless it is added specifically as a preservative; however, many companies voluntarily label sulfite-containing foods. Sulfites used in food processing, but not specifically added as a preservative, are only required to be listed if there are more than 10 parts per million (ppm) in the finished product. In 1986, the U.S. Food and Drug Administration banned the use of sulfites as preservatives on foods intended to be eaten fresh (such as salad ingredients). This has contributed to the increased use of erythorbic acid and its salts as preservatives. High sulfite content in the blood and urine of babies can be caused by molybdenum cofactor deficiency disease which leads to neurological damage and early death unless treated. Treatment, requiring daily injections, became available in 2009",
+        "stats": {
+        },
+        "link":"https://en.wikipedia.org/wiki/Sulfite"
+    }
+}
